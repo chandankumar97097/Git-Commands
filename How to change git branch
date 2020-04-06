@@ -1,0 +1,5 @@
+How to change Github branch or How to checkout Github Branch.
+
+1. git branch (master branch is showing)
+2. git checkout dev (eg: dev is second branch now you can check your branch)
+3. git branch (now it will show you dev branch it means you are in dev branch)
