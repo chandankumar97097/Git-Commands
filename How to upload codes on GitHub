@@ -1,0 +1,18 @@
+
+-----------------------------------------------------
+Follow these few steps to upload your code on Github.
+-----------------------------------------------------
+1. Copy your Git Repository full URL with https and create a folder on your PC or Desktop
+with any name.
+
+2. Open the terminal or command-line on this folder and enter the following commands:
+
+1. Git clone "Git repo URL" hit enter key 
+2. Git init
+3. Git add . or Git add -A
+4. Git status
+5. Git commit -m "Your Commit Message"
+6. Git status
+7. Git push
+
+You can Pull your github code also with using "git pull" command.
