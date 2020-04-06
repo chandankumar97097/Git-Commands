@@ -14,5 +14,7 @@ with any name.
 5. Git commit -m "Your Commit Message"
 6. Git status
 7. Git push
+8. Enter your Github username
+9. Enter your Github Account Password
 
 You can Pull your github code with using "git pull" command.
