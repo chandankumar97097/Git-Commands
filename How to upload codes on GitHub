@@ -7,14 +7,14 @@ with any name.
 
 2. Open the terminal or command-line on this folder and enter the following commands:
 
-1. Git clone "Git repo URL" hit enter key 
-2. Git init
-3. Git add . or Git add -A
-4. Git status
-5. Git commit -m "Your Commit Message"
+3. Git clone "Git repo URL" hit enter key 
+4. Git init
+5. Git add . or Git add -A
 6. Git status
-7. Git push
-8. Enter your Github username
-9. Enter your Github Account Password
+7. Git commit -m "Your Commit Message"
+8. Git status
+9. Git push
+10. Enter your Github username
+11. Enter your Github Account Password
 
-You can Pull your github code with using "git pull" command.
+12. You can Pull your github code with using "git pull" command.
